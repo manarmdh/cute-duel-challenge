@@ -1,5 +1,5 @@
 # Rock Paper Scissors Game ✊✋✌️
-#To tey it✨
+#To try it✨
 
 https://preview--cute-duel-challenge.lovable.app/
 
